@@ -2373,4 +2373,4 @@ Total 45 (delta 2), reused 0 (delta 0)
 remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), done.[K
 To https://github.com/MatthewIm17/sentence_completer.git
    c78c108..bc9fc47  main -> main
-]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ 
+]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ git push

@@ -1,1 +1,11 @@
-]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ 
+]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ [K]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ git add .
+]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ git commit -m "R[KEdited qruier[K[K[K[K[K[Krequirements"
+[main e5f38cf] Edited requirements
+ 3 files changed, 55 insertions(+), 2 deletions(-)
+ create mode 100644 .requirements.txt-0.term
+]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ git push
+Username for 'https://github.com': jshuieh
+Password for 'https://jshuieh@github.com': 
+remote: Permission to MatthewIm17/sentence_completer.git denied to jshuieh.
+fatal: unable to access 'https://github.com/MatthewIm17/sentence_completer.git/': The requested URL returned error: 403
+]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ git push
