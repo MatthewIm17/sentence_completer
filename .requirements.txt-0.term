@@ -41,4 +41,20 @@ Total 5 (delta 2), reused 0 (delta 0)
 remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
 To https://github.com/MatthewIm17/sentence_completer.git
    0e9d4dc..81617fc  main -> main
-]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ h
+]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ hoy[K[Kg[K[Kgit add .
+]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ git commit -m "Changed tesno[K[Kns[K[K[Kn[K[Kf version"
+[main 0f67406] Changed tf version
+ 2 files changed, 19 insertions(+), 2 deletions(-)
+]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ git push
+Username for 'https://github.com': jshuieh
+Password for 'https://jshuieh@github.com': 
+Enumerating objects: 7, done.
+Counting objects:  14% (1/7)Counting objects:  28% (2/7)Counting objects:  42% (3/7)Counting objects:  57% (4/7)Counting objects:  71% (5/7)Counting objects:  85% (6/7)Counting objects: 100% (7/7)Counting objects: 100% (7/7), done.
+Delta compression using up to 8 threads
+Compressing objects:  25% (1/4)Compressing objects:  50% (2/4)Compressing objects:  75% (3/4)Compressing objects: 100% (4/4)Compressing objects: 100% (4/4), done.
+Writing objects:  25% (1/4)Writing objects:  50% (2/4)Writing objects:  75% (3/4)Writing objects: 100% (4/4)Writing objects: 100% (4/4), 792 bytes | 792.00 KiB/s, done.
+Total 4 (delta 3), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/3)[Kremote: Resolving deltas:  33% (1/3)[Kremote: Resolving deltas:  66% (2/3)[Kremote: Resolving deltas: 100% (3/3)[Kremote: Resolving deltas: 100% (3/3), completed with 3 local objects.[K
+To https://github.com/MatthewIm17/sentence_completer.git
+   81617fc..0f67406  main -> main
+]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ g
