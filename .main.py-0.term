@@ -2321,3 +2321,56 @@ To https://github.com/MatthewIm17/sentence_completer.git
  * [new branch]      main -> main
 Branch 'main' set up to track remote branch 'main' from 'origin'.
 ]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ git a[Kcommit [K[K[K[K[K[K[K[K[K[K[Kgit add .
+]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ git commit -m "Add al [Kl files"
+[main bc9fc47] Add all files
+ 37 files changed, 38372 insertions(+)
+ create mode 100644 .main.py-0.term
+ create mode 100644 Procfile
+ create mode 100644 __pycache__/main.cpython-38.pyc
+ create mode 100644 __pycache__/utils.cpython-38.pyc
+ create mode 100644 __pycache__/wsgi.cpython-38.pyc
+ create mode 100644 main.py
+ create mode 100644 model/keras_metadata.pb
+ create mode 100644 model/saved_model.pb
+ create mode 100644 model/variables/variables.data-00000-of-00001
+ create mode 100644 model/variables/variables.index
+ create mode 100644 requirements.txt
+ create mode 100644 simple_site.py
+ create mode 100644 st_app.py
+ create mode 100644 static/Home.css
+ create mode 100644 static/Results.css
+ create mode 100644 static/Write-your-story-with-AI.css
+ create mode 100644 static/duck.gif
+ create mode 100644 static/duck2.gif
+ create mode 100644 static/images/aicamplogo250.jpg
+ create mode 100644 static/images/elves.png
+ create mode 100644 static/images/logo.png
+ create mode 100644 static/images/lotr.jpg
+ create mode 100644 static/images/page-book-words-letters-read-reading.jpg
+ create mode 100644 static/jquery.js
+ create mode 100644 static/loader.gif
+ create mode 100644 static/nicepage.css
+ create mode 100644 static/nicepage.js
+ create mode 100644 static/puppy.jpg
+ create mode 100644 static/text_gen.js
+ create mode 100644 templates/Write-your-story-with-AI.html
+ create mode 100644 templates/simple_index.html
+ create mode 100644 templates/writer_home.html
+ create mode 100644 tokenizer.pickle
+ create mode 100644 utils.py
+ create mode 100644 uwsgi.ini
+ create mode 100644 weights_location
+ create mode 100644 wsgi.py
+]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ git push
+Username for 'https://github.com': Matthew  Im17
+Password for 'https://MatthewIm17@github.com': 
+Enumerating objects: 46, done.
+Counting objects:   2% (1/46)Counting objects:   4% (2/46)Counting objects:   6% (3/46)Counting objects:   8% (4/46)Counting objects:  10% (5/46)Counting objects:  13% (6/46)Counting objects:  15% (7/46)Counting objects:  17% (8/46)Counting objects:  19% (9/46)Counting objects:  21% (10/46)Counting objects:  23% (11/46)Counting objects:  26% (12/46)Counting objects:  28% (13/46)Counting objects:  30% (14/46)Counting objects:  32% (15/46)Counting objects:  34% (16/46)Counting objects:  36% (17/46)Counting objects:  39% (18/46)Counting objects:  41% (19/46)Counting objects:  43% (20/46)Counting objects:  45% (21/46)Counting objects:  47% (22/46)Counting objects:  50% (23/46)Counting objects:  52% (24/46)Counting objects:  54% (25/46)Counting objects:  56% (26/46)Counting objects:  58% (27/46)Counting objects:  60% (28/46)Counting objects:  63% (29/46)Counting objects:  65% (30/46)Counting objects:  67% (31/46)Counting objects:  69% (32/46)Counting objects:  71% (33/46)Counting objects:  73% (34/46)Counting objects:  76% (35/46)Counting objects:  78% (36/46)Counting objects:  80% (37/46)Counting objects:  82% (38/46)Counting objects:  84% (39/46)Counting objects:  86% (40/46)Counting objects:  89% (41/46)Counting objects:  91% (42/46)Counting objects:  93% (43/46)Counting objects:  95% (44/46)Counting objects:  97% (45/46)Counting objects: 100% (46/46)Counting objects: 100% (46/46), done.
+Delta compression using up to 8 threads
+Compressing objects:   2% (1/44)Compressing objects:   4% (2/44)Compressing objects:   6% (3/44)Compressing objects:   9% (4/44)Compressing objects:  11% (5/44)Compressing objects:  13% (6/44)Compressing objects:  15% (7/44)Compressing objects:  18% (8/44)Compressing objects:  20% (9/44)Compressing objects:  22% (10/44)Compressing objects:  25% (11/44)Compressing objects:  27% (12/44)Compressing objects:  29% (13/44)Compressing objects:  31% (14/44)Compressing objects:  34% (15/44)Compressing objects:  36% (16/44)Compressing objects:  38% (17/44)Compressing objects:  40% (18/44)Compressing objects:  43% (19/44)Compressing objects:  45% (20/44)Compressing objects:  47% (21/44)Compressing objects:  50% (22/44)Compressing objects:  52% (23/44)Compressing objects:  54% (24/44)Compressing objects:  56% (25/44)Compressing objects:  59% (26/44)Compressing objects:  61% (27/44)Compressing objects:  63% (28/44)Compressing objects:  65% (29/44)Compressing objects:  68% (30/44)Compressing objects:  70% (31/44)Compressing objects:  72% (32/44)Compressing objects:  75% (33/44)Compressing objects:  77% (34/44)Compressing objects:  79% (35/44)Compressing objects:  81% (36/44)Compressing objects:  84% (37/44)Compressing objects:  86% (38/44)Compressing objects:  88% (39/44)Compressing objects:  90% (40/44)Compressing objects:  93% (41/44)Compressing objects:  95% (42/44)Compressing objects:  97% (43/44)Compressing objects: 100% (44/44)Compressing objects: 100% (44/44), done.
+Writing objects:   2% (1/45)Writing objects:   4% (2/45)Writing objects:   6% (3/45)Writing objects:   8% (4/45)Writing objects:  11% (5/45)Writing objects:  13% (6/45)Writing objects:  15% (7/45)Writing objects:  17% (8/45)Writing objects:  20% (9/45)Writing objects:  22% (10/45)Writing objects:  24% (11/45)Writing objects:  26% (12/45)Writing objects:  28% (13/45)Writing objects:  28% (13/45), 432.00 KiB | 147.00 KiB/sWriting objects:  28% (13/45), 4.34 MiB | 1.28 MiB/s    Writing objects:  28% (13/45), 42.67 MiB | 9.65 MiB/sWriting objects:  31% (14/45), 42.67 MiB | 9.65 MiB/sWriting objects:  33% (15/45), 42.67 MiB | 9.65 MiB/sWriting objects:  35% (16/45), 42.67 MiB | 9.65 MiB/sWriting objects:  37% (17/45), 42.67 MiB | 9.65 MiB/sWriting objects:  40% (18/45), 42.67 MiB | 9.65 MiB/sWriting objects:  42% (19/45), 42.67 MiB | 9.65 MiB/sWriting objects:  44% (20/45), 42.67 MiB | 9.65 MiB/sWriting objects:  46% (21/45), 42.67 MiB | 9.65 MiB/sWriting objects:  48% (22/45), 42.67 MiB | 9.65 MiB/sWriting objects:  51% (23/45), 42.67 MiB | 9.65 MiB/sWriting objects:  53% (24/45), 42.67 MiB | 9.65 MiB/sWriting objects:  55% (25/45), 42.67 MiB | 9.65 MiB/sWriting objects:  57% (26/45), 42.67 MiB | 9.65 MiB/sWriting objects:  60% (27/45), 42.67 MiB | 9.65 MiB/sWriting objects:  62% (28/45), 42.67 MiB | 9.65 MiB/sWriting objects:  64% (29/45), 42.67 MiB | 9.65 MiB/sWriting objects:  66% (30/45), 42.67 MiB | 9.65 MiB/sWriting objects:  68% (31/45), 42.67 MiB | 9.65 MiB/sWriting objects:  71% (32/45), 42.67 MiB | 9.65 MiB/sWriting objects:  73% (33/45), 42.67 MiB | 9.65 MiB/sWriting objects:  75% (34/45), 42.67 MiB | 9.65 MiB/sWriting objects:  77% (35/45), 42.67 MiB | 9.65 MiB/sWriting objects:  80% (36/45), 42.67 MiB | 9.65 MiB/sWriting objects:  82% (37/45), 42.67 MiB | 9.65 MiB/sWriting objects:  86% (39/45), 42.67 MiB | 9.65 MiB/sWriting objects:  88% (40/45), 42.67 MiB | 9.65 MiB/sWriting objects:  91% (41/45), 42.67 MiB | 9.65 MiB/sWriting objects:  93% (42/45), 42.67 MiB | 9.65 MiB/sWriting objects:  95% (43/45), 42.67 MiB | 9.65 MiB/sWriting objects:  97% (44/45), 42.67 MiB | 9.65 MiB/sWriting objects: 100% (45/45), 42.67 MiB | 9.65 MiB/sWriting objects: 100% (45/45), 45.65 MiB | 9.82 MiB/s, done.
+Total 45 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/2)[Kremote: Resolving deltas:  50% (1/2)[Kremote: Resolving deltas: 100% (2/2)[Kremote: Resolving deltas: 100% (2/2), done.[K
+To https://github.com/MatthewIm17/sentence_completer.git
+   c78c108..bc9fc47  main -> main
+]0;~/nlp-writer-scaffold/app[01;34m~/nlp-writer-scaffold/app[00m$ 
